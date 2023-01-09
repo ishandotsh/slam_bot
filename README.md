@@ -1,6 +1,6 @@
 # SLAM and Navigation in Gazebo with ROS2
 
-### Launch Commands
+## Launch Commands
 
 Run rviz before gazebo else rviz doesn't show the /odom frame
 
