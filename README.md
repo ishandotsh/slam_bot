@@ -1,5 +1,9 @@
 # SLAM and Navigation in Gazebo with ROS2
 
+## Options
+
+* in description/robot.urdf.xacro, choose either camera or depth_camera, not both.
+
 ## Launch Commands
 
 Run rviz before gazebo else rviz doesn't show the /odom frame
