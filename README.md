@@ -8,6 +8,7 @@
 
 Run rviz before gazebo because rviz sometimes doesn't show the /odom frame
 
+
 ```
     rviz2 -d ~/dev_ws/src/slam_bot/config/main.rviz
     ros2 launch slam_bot launch_sim.launch.py world:=~/dev_ws/src/slam_bot/worlds/obstacles.world
